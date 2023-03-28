@@ -1,0 +1,10 @@
+# Ignore all .env files
+*.env*
+
+# Large media files
+*.mp4
+*.tiff
+*.avi
+*.flv
+*.mov
+*.wmv
